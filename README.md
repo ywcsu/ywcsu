@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/alexchan38168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexchan38168" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/alex chan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alex chan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/alexchan3447" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alexchan3447" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/ANj2heRwjp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ANj2heRwjp" height="30" width="40" /></a>
 </p>
 
